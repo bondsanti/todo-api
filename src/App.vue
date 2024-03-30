@@ -1,9 +1,9 @@
 <script setup>
-import { RouterLink, RouterView } from 'vue-router'
-
+import { RouterLink, RouterView } from "vue-router";
 </script>
 
 <template>
-
-  <RouterView />
+  <div class="contianer">
+    <RouterView />
+  </div>
 </template>
